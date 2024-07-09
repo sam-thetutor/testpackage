@@ -8,3 +8,7 @@ license = "MIT"
 
 [dependencies]
 base = "0.10.0"
+
+[toolchain]
+moc = "0.10.3"
+wasmtime = "16.0.0"
