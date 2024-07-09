@@ -8,4 +8,3 @@ license = "MIT"
 
 [dependencies]
 base = "0.10.0"
-testpackage = "1.0.0"
