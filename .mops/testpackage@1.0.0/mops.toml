@@ -1,11 +1,11 @@
 [package]
 name = "testpackage"
-version = "1.2.0"
+version = "1.0.0"
 description = "testing a new package"
 repository = "https://github.com/sam-thetutor/testpackage"
 keywords = [ "testing" ]
 license = "MIT"
 
+
 [dependencies]
-base = "0.10.0"
-testpackage = "1.0.0"
+base="0.10.0"
