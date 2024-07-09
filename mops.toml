@@ -1,6 +1,6 @@
 [package]
 name = "testpackage"
-version = "1.2.0"
+version = "1.2.2"
 description = "testing a new package"
 repository = "https://github.com/sam-thetutor/testpackage"
 keywords = [ "testing" ]
